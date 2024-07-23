@@ -1,0 +1,1 @@
+simple script to convert sotfrp-format log files to readable ones
